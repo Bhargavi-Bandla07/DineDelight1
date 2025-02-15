@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background-color: white;
+    padding-top: 0;
+}
+.one {
+    height: 20px;
+    color: orange;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.panner{
+    padding-left:5%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.panner img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+
+.price1{
+    padding-left:5%;
+    color: orange;
+    
+}
+
+.panner hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.price{
+padding-left: 2%;
+justify-content: center;
+align-items: center;
+padding-top: 3%;
+}
+h3{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.side{
+    display: flex;
+    flex-direction: row;
+    
+}
+.Dal{
+    padding-left: 15%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Dal img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.side2{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.roti{
+    padding-left:5%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.roti img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.roti hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.Chana{
+    padding-left:15%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Chana img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Chana hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.side3{
+    display: flex;
+    flex-direction: row;
+
+}
+.Palak{
+    padding-left:5%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Palak img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Palak hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.Chole{
+    padding-left:15%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Chole img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Chole hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.side4{
+    display: flex;
+    flex-direction: row;
+
+}
+.Kulcha{
+    padding-left:5%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Kulcha img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Kulcha hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.Tandoor{
+    padding-left:15%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Tandoor img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Tandoor hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.side5{
+    display: flex;
+    flex-direction: row;
+
+}
+.Aloo{
+    padding-left:5%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Aloo img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Aloo hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.Malai{
+    padding-left:15%;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Malai img{
+    border-radius: 70px;
+    height:150px ;
+    width:150px;
+}
+.Malai hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right:5%;
+}
+.click{
+    padding-bottom: 5vh;
+     padding-top: 5vh;
+     text-align: center;
+ }
+ .click button{
+     background-color: orange;
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 16px;
+     margin: 4px 2px;
+     border-radius:10px;
+ }
