@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: white;
+    padding-top: 0;
+}
+
+.name {
+    padding-left: 16%;
+}
+
+.one {
+    height: 10%;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.panner {
+    height: 10%;
+    padding-left: 5%;
+    padding-top: 2%;
+  
+    text-align: left;
+}
+
+img {
+    height: 20vh;
+    border-radius: 70px;
+}
+
+h2 {
+    color: black;
+}
+
+/* Small HR */
+.name hr {
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 74%;
+}
+.price {
+    margin-left: 10px; /* Adjust this value as needed */
+    color:orange;
+}
+    .five{
+        height: 20vh;
+        border-radius: 200%;
+        padding-top: 0vh ;
+        padding-right: 63px;
+        align-items: center;
+        text-align: center;
+       
+
+         }
+    .five-in{
+        padding-left: 16%;
+        align-items: center;
+        text-align: center;
+        }
+    .five-in hr{
+        height: 1px;
+        border: none;
+        background-color:gray;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 74%;
+        text-align: center;
+        padding-left: 35%;
+        margin-left: 40%;
+    }
+    
+    .price5 {
+        margin-left: 180px; /* Adjust this value as needed */
+        color:orange;
+     }
+
+.price1 {
+    margin-left: 180px; /* Adjust this value as needed */
+    color:orange;
+}
+.two {
+    height: 20vh;
+    border-radius: 120px;
+    padding-top: 65px;
+    padding-left: 60px;
+}
+.two-in{
+    padding-left: 16%;
+}
+.two-in hr {
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 74%;
+}
+.three{
+    height: 20vh;
+    border-radius: 200%;
+    padding-top: 65px;
+    padding-left: 63px;
+
+}
+.three-in{
+    padding-left: 16%;
+
+}
+.three-in hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 74%;
+
+}
+
+.price3 {
+    margin-left: 180px; /* Adjust this value as needed */
+    color:orange;
+}
+.four{
+    height: 20vh;
+    border-radius: 200%;
+    padding-top: 65px;
+    padding-left: 63px;
+
+}
+.four-in{
+    padding-left: 16%;
+
+}
+.four-in hr{
+    height: 1px;
+    border: none;
+    background-color:gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 74%;
+
+}
+
+.price4 {
+    margin-left: 180px; /* Adjust this value as needed */
+    color:orange;
+}
